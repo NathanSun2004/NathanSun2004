@@ -1,6 +1,5 @@
-## Welcome to my personal homepage
+## 👋 Hi there! I'm Naichuan Sun.
 
-Hi there 👋
 
 - 🎓 I’m currently an undergraduate student majoring in Automation at College of Artificial Intelligence, Nankai University.
 - 🎓 I’m about to begin my PhD at the School of Artificial Intelligence(SAI), Shanghai Jiao Tong University supervised by Yuanbo Xiangli. 
