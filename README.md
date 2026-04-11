@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Naichuan Sun.
+## 👋 Hi there! I'm Naichuan Sun
 
 
 - 🎓 I’m currently an undergraduate student majoring in Automation at College of Artificial Intelligence, Nankai University.
