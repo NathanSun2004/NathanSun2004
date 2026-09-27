@@ -3,6 +3,6 @@
 - 🎓 I’m a first-year Ph.D. student at the School of Artificial Intelligence (SAI), Shanghai Jiao Tong University, advised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/).
 - 🎓 Previously, I was a visiting student at Westlake University, working with [Prof. Peidong Liu](https://ethliup.github.io/).
 - 🎓 I completed my undergraduate studies in Automation at the College of Artificial Intelligence, Nankai University, working with [Prof. Mingzhu Sun](https://ai.nankai.edu.cn/info/1033/5386.htm).
-- 🌱 My research interests lie in world models and their applications to robotics, particularly humanoid robots and robotic arms.
+- 🌱 My research interests lie in robotics, with a focus on how robots learn loco-manipulation skills and how world models can support learning in humanoid robots.
 - 🤔 I’m always exploring new research ideas and happy to connect with people who share similar interests. Feel free to reach out!
 - 📫 Email: [sun_naichuan@outlook.com](mailto:sun_naichuan@outlook.com)
