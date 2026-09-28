@@ -1,4 +1,4 @@
-# Hi there👋, I'm Naichuan Sun
+# Naichuan Sun
 
 **Ph.D. student · Shanghai Jiao Tong University**
 
