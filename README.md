@@ -13,10 +13,7 @@ I am a Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Ton
 
 ## Selected project
 
-**DexWeave** — DexWeave combines interaction-consistent whole-body retargeting with anatomy-aware reinforcement learning to enable dexterous humanoid loco-manipulation from human demonstrations.
- [Project Page](https://dexweave.github.io)
- [Arxiv](https://arxiv/com)
- [Paper](https://dexweave.github.io/dexweave.pdf)
+**DexWeave** — DexWeave combines interaction-consistent whole-body retargeting with anatomy-aware reinforcement learning to enable dexterous humanoid loco-manipulation from human demonstrations. [Project Page](https://dexweave.github.io) [Arxiv](https://arxiv/com) [Paper](https://dexweave.github.io/dexweave.pdf)
 
 ## Educations
 
