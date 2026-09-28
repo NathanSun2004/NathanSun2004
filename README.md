@@ -17,6 +17,6 @@ I am a Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Ton
 
 ## Educations
 
-- **Shanghai Jiao Tong University** — Ph.D. student in Computer Science at School of Artificial Intelligence, advised with [Prof. Yuanbo Xiangli](https://kam1107.github.io/).
+- **Shanghai Jiao Tong University** — Ph.D. student in Computer Science at School of Artificial Intelligence, advised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/).
 - **Westlake University** — Visiting student at School of Engineering, working with [Prof. Peidong Liu](https://ethliup.github.io/).
 - **Nankai University** — Undergraduate student in Automation at the College of Artificial Intelligence, working with [Prof. Mingzhu Sun](https://ai.nankai.edu.cn/info/1033/5386.htm).
