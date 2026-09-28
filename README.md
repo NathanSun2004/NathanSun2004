@@ -4,7 +4,7 @@
 
 [Website](https://naichuan04.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=Nmd-4kYAAAAJ) · [ORCID](https://orcid.org/0009-0000-6410-4237) · [Email](mailto:sun_naichuan@outlook.com)
 
-I am a Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Tong University, advised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/). My research focuses on robot learning, particularly humanoid loco-manipulation and world models for robotic interaction.
+I am a Ph.D. student at the School of Artificial Intelligence, Shanghai Jiao Tong University, advised by [Prof. Yuanbo Xiangli](https://kam1107.github.io/). My research focuses on how robots learn loco-manipulation skills and how world models can support learning in humanoid robots and robotic arms.
 
 ## Research interests
 
